@@ -1,0 +1,12 @@
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\testPlugin.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\testPlugin.pdb
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\CommonUtility.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\FrameworkCore.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\DevExpress.Utils.v10.1.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\DevExpress.XtraBars.v10.1.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\ESRI.ArcGIS.ADF.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\DevExpress.Data.v10.1.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\bin\Debug\ESRI.ArcGIS.ADF.xml
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\obj\Debug\testPlugin.dll
+E:\Projects\饮用水源地安全评价系统\drinkingWaterSource\测试代码\王帅\testPlugin\obj\Debug\testPlugin.pdb
